@@ -69,7 +69,7 @@ Cryptify is a secure, modular application designed for encryption and decryption
 
 ## Contributors
 - **Your Name**
-  - [GitHub](https://github.com/yourusername)
-  - [LinkedIn](https://linkedin.com/in/yourusername)
+  - [GitHub](https://github.com/nishantb66)
+  - [LinkedIn](https://www.linkedin.com/in/nishantbaru/)
 
 Feel free to contribute by submitting pull requests or raising issues!
